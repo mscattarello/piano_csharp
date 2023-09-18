@@ -1,0 +1,33 @@
+c:\Users\Marcelo\Desktop\Python\pianoio\c sharp\pianoio\bin\Debug\net7.0\pianoio.exe
+c:\Users\Marcelo\Desktop\Python\pianoio\c sharp\pianoio\bin\Debug\net7.0\pianoio.deps.json
+c:\Users\Marcelo\Desktop\Python\pianoio\c sharp\pianoio\bin\Debug\net7.0\pianoio.runtimeconfig.json
+c:\Users\Marcelo\Desktop\Python\pianoio\c sharp\pianoio\bin\Debug\net7.0\pianoio.dll
+c:\Users\Marcelo\Desktop\Python\pianoio\c sharp\pianoio\bin\Debug\net7.0\pianoio.pdb
+c:\Users\Marcelo\Desktop\Python\pianoio\c sharp\pianoio\obj\Debug\net7.0\pianoio.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Marcelo\Desktop\Python\pianoio\c sharp\pianoio\obj\Debug\net7.0\pianoio.AssemblyInfoInputs.cache
+c:\Users\Marcelo\Desktop\Python\pianoio\c sharp\pianoio\obj\Debug\net7.0\pianoio.AssemblyInfo.cs
+c:\Users\Marcelo\Desktop\Python\pianoio\c sharp\pianoio\obj\Debug\net7.0\pianoio.csproj.CoreCompileInputs.cache
+c:\Users\Marcelo\Desktop\Python\pianoio\c sharp\pianoio\obj\Debug\net7.0\pianoio.dll
+c:\Users\Marcelo\Desktop\Python\pianoio\c sharp\pianoio\obj\Debug\net7.0\refint\pianoio.dll
+c:\Users\Marcelo\Desktop\Python\pianoio\c sharp\pianoio\obj\Debug\net7.0\pianoio.pdb
+c:\Users\Marcelo\Desktop\Python\pianoio\c sharp\pianoio\obj\Debug\net7.0\pianoio.genruntimeconfig.cache
+c:\Users\Marcelo\Desktop\Python\pianoio\c sharp\pianoio\obj\Debug\net7.0\ref\pianoio.dll
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\bin\Debug\net7.0\pianoio.exe
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\bin\Debug\net7.0\pianoio.deps.json
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\bin\Debug\net7.0\pianoio.runtimeconfig.json
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\bin\Debug\net7.0\pianoio.dll
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\bin\Debug\net7.0\pianoio.pdb
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\obj\Debug\net7.0\pianoio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\obj\Debug\net7.0\pianoio.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\obj\Debug\net7.0\pianoio.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\obj\Debug\net7.0\pianoio.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\obj\Debug\net7.0\pianoio.dll
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\obj\Debug\net7.0\refint\pianoio.dll
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\obj\Debug\net7.0\pianoio.pdb
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\obj\Debug\net7.0\pianoio.genruntimeconfig.cache
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\obj\Debug\net7.0\ref\pianoio.dll
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\obj\Debug\net7.0\pianoio.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\obj\Debug\net7.0\pianoio.csproj.CopyComplete
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\bin\Debug\net7.0\Apache.Arrow.dll
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\bin\Debug\net7.0\Microsoft.Data.Analysis.dll
+C:\Users\Marcelo\Desktop\Python\pianoio\csharp\pianoio\bin\Debug\net7.0\Microsoft.ML.DataView.dll
